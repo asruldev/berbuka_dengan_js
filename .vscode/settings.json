@@ -1,0 +1,11 @@
+{
+    "tinypng.forceOverwrite": true,
+    "tinypng.compressedFilePostfix": "",
+    "tinypng.apiKey": "6TwRl0RbljSyrJ5ck8ZjzqBkkg4s4XnL",
+    "[image_file]": {
+        "tinypng.enabled": true,
+        "tinypng.compress": true,
+        "tinypng.compressedFilePostfix": "",
+        "tinypng.apiKey": "6TwRl0RbljSyrJ5ck8ZjzqBkkg4s4XnL"
+    }
+}
